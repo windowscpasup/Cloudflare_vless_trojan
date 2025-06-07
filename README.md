@@ -11,18 +11,12 @@
 #### 5、Pages方式：支持vless+ws+tls、trojan+ws+tls代理节点
 #### 6、支持单节点链接、聚合通用节点链接、聚合通用节点订阅、sing-box节点订阅、clash节点订阅
 #### 7、虽然仅乱码混淆版可用，但只有修改uuid/密码时才必须使用变量
--------------------------------------------------------------
 
-### 交流平台：[甬哥博客地址](https://ygkkk.blogspot.com)、[甬哥YouTube频道](https://www.youtube.com/@ygkkk)、[甬哥TG电报群组](https://t.me/+jZHc6-A-1QQ5ZGVl)、[甬哥TG电报频道](https://t.me/+DkC9ZZUgEFQzMTZl)
---------------------------------
 
-### 推荐新手用户请先看以下两个入门视频教程：
 
-[CF vless/trojan免费节点混淆时代来临：workers/pages代码混淆后详细设置的更新说明；1101报错总结；福利计划：甬哥自建多个ProxyIP让大家使用](https://youtu.be/QSFaP5EVI04)
 
-[永久免费的cf vless workers原生域名节点 | 无需自定义域名 | 无需优选IP订阅 | 无需面版控制台 | 只需保存两个参数 | 自建无限不死节点！](https://youtu.be/PpPKzOYLZQg)
 
----------------------------------------------
+
 
 ## 一：CF Vless节点可设置的变量内容
 
